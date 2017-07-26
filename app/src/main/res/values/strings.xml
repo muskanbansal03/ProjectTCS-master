@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Blood Donation</string>
+
+    <string name="facebook_app_id">487049411640343</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="beneficiaryaddress">Address</string>
+    <string name="beneficiarycountry">Country</string>
+    <string name="register_benef">Register Beneficiary</string>
+    <string name="no_internet">No Internet Connection</string>
+
+    <string name="text_with_paragraphs">
+
+        Blood donation means that a person voluntarily donates blood for community welfare to a person who is in need or to blood banks. In poorer countries where there are limited donors usually give blood when family or friends need a transfusion (directed donation).
+        Many donors donate as an act of charity, in some cases they may get incentives like paid time off from work.But firstly we check whether the donor is potential or not through screening. \nThat screening includes – \n \n
+1.	Testing for disease \n \n
+2.	Number of platelets \n \n
+3.	Last donated date because you cannot donate before 3 months \n
+
+    </string>
+    <string name="title_activity_maps">Map</string>
+</resources>

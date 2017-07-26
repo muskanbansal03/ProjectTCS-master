@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "882829349472",
+    "firebase_url": "https://projecttcs-df663.firebaseio.com",
+    "project_id": "projecttcs-df663",
+    "storage_bucket": "projecttcs-df663.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882829349472:android:a02ca296a1aa8f19",
+        "android_client_info": {
+          "package_name": "com.example.keshav.projecttcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882829349472-vpb657b7o4688ngiae3camitjrkjkqj4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.keshav.projecttcs",
+            "certificate_hash": "020ddbcb22e1e4b8d80d3fc5c6412f73b0eff2e6"
+          }
+        },
+        {
+          "client_id": "882829349472-4qlp6l0c5leaiutt4ddns9mgcknj512k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.keshav.projecttcs",
+            "certificate_hash": "06cc6384981e837c10cc0f56438acb780d428b1b"
+          }
+        },
+        {
+          "client_id": "882829349472-0258tv412o215ohq5bsv999uqnebi7hc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLqnVHIoPElNfObcXO-MuNiZGBrdWf61g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882829349472-0258tv412o215ohq5bsv999uqnebi7hc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

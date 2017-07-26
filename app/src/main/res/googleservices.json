@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "324140431950",
+    "project_id": "aerial-deck-172208"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:324140431950:android:a02ca296a1aa8f19",
+        "android_client_info": {
+          "package_name": "com.example.keshav.projecttcs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "324140431950-1sn9vbe6gcn2467rnqrcu9pds31jvcga.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.keshav.projecttcs",
+            "certificate_hash": "a7b97b836d9ee434a3219c3bee1ac23c5288db39"
+          }
+        },
+        {
+          "client_id": "324140431950-cpd6gqho62e7ckd25trlj8dlnnik73p5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUaIHLb2YW7hS1JNiWraHw0tXPoeKkcjQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

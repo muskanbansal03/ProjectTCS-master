@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    android:layout_gravity="center"
+    android:background="@drawable/bgset"
+    >
+
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="80dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="20sp"
+        android:layout_marginEnd="80sp">
+        <EditText android:id="@+id/editText_age"
+            android:layout_width="352dp"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal"
+            android:hint="Age"
+            android:textColor="#FFFF"
+            android:textColorHint="#FFFF"
+            android:backgroundTint="#FFFF"
+            android:textColorHighlight="#FFFF"
+            />
+    </android.support.design.widget.TextInputLayout>
+
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="8dp"
+        android:layout_marginStart="20sp"
+        android:layout_marginEnd="80sp">
+        <EditText android:id="@+id/editText_height"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal"
+            android:hint="Height"
+            android:textColor="#FFFF"
+            android:textColorHint="#FFFF"
+            android:backgroundTint="#FFFF"
+            android:textColorHighlight="#FFFF"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="20sp"
+        android:layout_marginEnd="80sp"
+        android:layout_marginBottom="8dp">
+        <EditText android:id="@+id/editText_weight"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal"
+            android:hint="Weight"
+            android:textColor="#FFFF"
+            android:textColorHint="#FFFF"
+            android:backgroundTint="#FFFF"
+            android:textColorHighlight="#FFFF"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginStart="20sp"
+        android:layout_marginEnd="80sp"
+        android:layout_marginBottom="8dp">
+        <EditText android:id="@+id/editText_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Last Donated Date"
+            android:textColor="#FFFF"
+            android:textColorHint="#FFFF"
+            android:backgroundTint="#FFFF"
+            android:textColorHighlight="#FFFF"/>
+    </android.support.design.widget.TextInputLayout>
+
+
+    <android.support.design.widget.TextInputLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="20sp"
+        android:layout_marginEnd="80sp"
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="8dp">
+        <EditText android:id="@+id/editText_phone"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:inputType="numberDecimal"
+            android:hint="Contact"
+            android:textColor="#FFFF"
+            android:textColorHint="#FFFF"
+            android:backgroundTint="#FFFF"
+            android:textColorHighlight="#FFFF"/>
+    </android.support.design.widget.TextInputLayout>
+
+    <Button
+        android:id="@+id/btn_update"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30sp"
+        android:text="Update"
+        android:textSize="21sp"
+        android:layout_marginLeft="140sp"
+        android:padding="10dp"
+        android:textColor="#000"
+        android:background="#FFEBEE"
+        android:shadowColor="#FFFFFF"
+
+        />
+
+</LinearLayout>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="all">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/homepic"
+            android:title="Home" />
+
+        <item
+            android:id="@+id/nav_account"
+            android:icon="@drawable/accountbox"
+            android:title="Signup As Donor" />
+
+        <item
+            android:id="@+id/nav_log"
+            android:icon="@drawable/accountcircle"
+            android:title="Login"
+           />
+
+        <item
+            android:id="@+id/nav_prof"
+            android:icon="@drawable/profile"
+            android:title="Your profile"
+            />
+        <item
+            android:id="@+id/nav_update"
+            android:icon="@drawable/update"
+            android:title="Update" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@drawable/ic_menu_gallery"
+            android:title="Gallery" />
+
+        <item
+            android:id="@+id/nav_manage"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="Tools"
+            android:layout_width="match_parent" />
+
+        <item
+            android:id="@+id/nav_req"
+            android:icon="@drawable/request"
+            android:title="Request"
+            android:layout_width="match_parent" />
+    </group>
+
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_help"
+                android:icon="@drawable/helpbox"
+                android:title="Help" />
+
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/logout"
+                android:title="Logout"/>
+
+
+        </menu>
+    </item>
+
+</menu>
